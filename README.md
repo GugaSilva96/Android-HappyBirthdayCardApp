@@ -1,0 +1,1 @@
+"Noções básicas do Android com o Compose" é um curso on-line individualizado sobre como criar apps Android usando as práticas recomendadas mais recentes. Ele aborda os conceitos básicos da criação de apps com o Jetpack Compose, o kit de ferramentas recomendado para criar interfaces do usuário no Android.
